@@ -89,13 +89,22 @@ The Streamlit dashboard enables users to:
 - Analyze customer purchasing behavior
 - Review forecasting results
 
-> **Add dashboard screenshots here**
+## 📊 Revenue Dashboard
 
-Example:
+![Revenue Dashboard](images/revenue.png)
+<img width="1920" height="1020" alt="revenue" src="https://github.com/user-attachments/assets/118e13c9-d258-4e6f-a5bd-a20d8e4d54b6" />
 
-![Dashboard](images/dashboard.png)
+## 💳 Payment Analysis
 
----
+![Payment Analysis](images/payment.png)
+<img width="1920" height="1020" alt="payment" src="https://github.com/user-attachments/assets/f0132415-bda9-4418-ae81-c77d4f686a14" />
+
+
+## 🎛️ Interactive Filters
+
+![Sidebar](images/sidebar.png)
+<img width="1920" height="1020" alt="sidebar" src="https://github.com/user-attachments/assets/335210a2-7246-4811-a4ea-57225b345ecd" />
+
 
 ##  Repository Structure
 
